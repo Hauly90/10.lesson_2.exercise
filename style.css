@@ -1,0 +1,38 @@
+div {
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  width: 50px;
+  font-family: 'Baloo Thambi 2', cursive;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+.first {
+  background: salmon;
+  border-top: 5px solid lightblue;
+  border-left: 5px solid lightblue;
+  border-right: 5px solid lightblue;
+}
+
+.second {
+  background: yellow;
+  border-left: 5px solid lightblue;
+  border-right: 5px solid lightblue;
+}
+
+.third {
+  background: lightgreen;
+  border-left: 5px solid lightblue;
+  border-right: 5px solid lightblue;
+}
+
+.fourth {
+  background: blue;
+  border-left: 5px solid lightblue;
+  border-right: 5px solid lightblue;
+  border-bottom: 5px solid lightblue;
+}
